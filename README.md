@@ -1,0 +1,2 @@
+# Market-Regime-Detection-with-Hidden-Markov-Models-and-Regime-Based-Portfolio-Allocation
+This project identifies hidden market regimes using a Hidden Markov Model trained on financial features such as returns, volatility, and drawdowns. The detected regimes are used to implement a dynamic portfolio allocation strategy that adjusts exposure between risky and defensive assets depending on market conditions and risk levels.
