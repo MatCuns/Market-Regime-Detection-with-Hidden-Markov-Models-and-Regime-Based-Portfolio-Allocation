@@ -29,7 +29,7 @@ The project follows four main steps.
 
 ### 1. Data Collection
 
-The historical daily price csvdata of ACWI as proxy for a global equity index is downloaded from.
+The historical daily price csvdata of the Swiss Market Index (SMI) as proxy for a global equity index is downloaded from stooq website https://stooq.com/q/?s=^smi
 
 From the price series, the following variables are computed:
 
@@ -79,7 +79,7 @@ Example allocation logic:
 
 A regime-based allocation strategy is evaluated using historical backtesting.
 
-The strategy is compared to a **Buy & Hold benchmark of ACWI** and to just holding cash.
+The strategy is compared to a **Buy & Hold benchmark of the SMI** and to just holding cash.
 
 Performance metrics include:
 
