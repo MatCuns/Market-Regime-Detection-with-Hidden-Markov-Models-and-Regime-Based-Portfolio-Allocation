@@ -29,7 +29,7 @@ The project follows four main steps.
 
 ### 1. Data Collection
 
-The historical daily price csvdata of ACWI for proxy ov a global equity index is downloaded from.
+The historical daily price csvdata of ACWI as proxy for a global equity index is downloaded from.
 
 From the price series, the following variables are computed:
 
