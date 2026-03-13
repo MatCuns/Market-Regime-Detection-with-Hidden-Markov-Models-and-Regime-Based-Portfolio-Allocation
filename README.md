@@ -37,20 +37,10 @@ From the price series, the following variables are computed:
 - rolling volatility
 
 I also include US 3 months T-bill bonds as cashlike defensive sleeves
----
-
-### 2. Feature Construction
-
-The regime model is estimated using a feature matrix that includes:
-
-- daily returns
-- rolling volatility
-
-These variables capture changes in market behavior over time.
 
 ---
 
-### 3. Regime Detection
+### 2. Regime Detection
 
 Market regimes are estimated using a **Gaussian Hidden Markov Model** with three hidden states.
 
@@ -63,7 +53,7 @@ The HMM estimates:
 
 ---
 
-### 4. Portfolio Strategy
+### 3. Portfolio Strategy
 
 Portfolio exposure is adjusted depending on the detected regime.
 
