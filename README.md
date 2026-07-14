@@ -1,5 +1,6 @@
-# UNDER CONSTRUCTION........
-
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+![Status](https://img.shields.io/badge/Status-Under%20Development-orange)
 # Market Regime Detection with Hidden Markov Models and Regime-Based Portfolio Allocation
 
 ## Project Overview
